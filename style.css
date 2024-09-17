@@ -3,7 +3,7 @@
   padding: 0rem;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Krub", sans-serif;
+  font-family: "Merriweather", sans-serif;
 }
 
 body{
@@ -18,19 +18,20 @@ body{
 .light-section{
   background-color: peach;
   color: black;
+  padding: 5% 10%;
 }
 
 .dark-section{
   background-color: black;
   color: white;
-  padding: 10%;
+  padding: 5% 10%;
 }
 
 .banner{
   background-image: url('https://images.unsplash.com/photo-1532689193429-29caa23e5268?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   padding: 15%;
   min-height: 40vh;
-  background-position: 95% 95%;
+  background-position: top;
   color: white;
   font-size: 4rem;
   }
