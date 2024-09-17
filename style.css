@@ -6,6 +6,13 @@
   font-family: "Work Sans", sans-serif;
 }
 
+body{
+  border: none;
+}
+
+.header{
+
+}
 
 .light-section{
   background-color: peach;
