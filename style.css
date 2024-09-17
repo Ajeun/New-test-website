@@ -10,6 +10,10 @@ body{
   border: none;
 }
 
+.header{
+  display: inline-block;
+  text-decoration: none;
+}
 
 .light-section{
   background-color: peach;
