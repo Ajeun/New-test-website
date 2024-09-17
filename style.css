@@ -16,10 +16,12 @@ body{
 
 .light-section{
   background-color: peach;
+  color: black;
 }
 
 .dark-section{
   background-color: navy;
+  color: white;
 }
 
 .banner{
