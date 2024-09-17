@@ -55,6 +55,8 @@ nav ul li{
   background-size: cover;
   min-height: 30vh;
   margin: 10%;
+  padding: 10%
+  background-position: center;
 }
 
 
